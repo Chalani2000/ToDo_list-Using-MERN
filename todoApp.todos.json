@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "6793460d63ad26202104c15b"
+  },
+  "text": "Complete Flutter Project",
+  "completed": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67934a8363ad26202104c183"
+  },
+  "text": "Complete TO DO application",
+  "completed": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67934eae63ad26202104c19a"
+  },
+  "text": "Complete MERN Project",
+  "completed": false,
+  "__v": 0
+}]
